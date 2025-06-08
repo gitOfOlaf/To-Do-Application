@@ -11,7 +11,6 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -57,8 +56,3 @@ Users should be able to:
 
 - [Tailwind Utility Components](https://tailwindcss.com/) - This helped me with the styling of the page much faster and easier.
 
-## Author
-
-- Website - [Abdullah Ayoola](https://github.com/abdullah43577)
-- Frontend Mentor - [@abdullah43577](https://www.frontendmentor.io/profile/abdullah43577)
-- Twitter - [@officialayo540](https://twitter.com/officialayo540)
